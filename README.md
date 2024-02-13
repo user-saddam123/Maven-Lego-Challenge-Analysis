@@ -12,8 +12,17 @@
  3. [Dashboard Overview](#dashboard-overview)
  4. [Tools Used](#tools-used)
  5. [Tips for using Bookmarks](#important-tips-for-using-bookmarks)
+ 6. [Detailed Explanation](#detailed-explanation)
+ 7. [Trend Overview](#trend-overview-1)
+ 8. [Category Based Insights](#category-based-insights-1)
+ 9. [Themes Based Insights](#themes-based-insights)
+10. [Sub Theme Based Insights](#sub-theme-based-insights-1)
+11. [ThemeGroup Based Insights](#themegroup-based-insights)
+12. [SECOND PAGE](#second-page)
+13. [Learnings](#learning-through-this-project)
+14. [End](#the-end)
 
-
+#
 
 ## Challenge Objective:
 The Objective of this Maven LEGO Challenge, we'll need to stack our imagination and analytical prowess to piece together an interactive dashboard or visual that lets users(Client) explore the insight from history and evolution of LEGO sets from the past 5 decades.
