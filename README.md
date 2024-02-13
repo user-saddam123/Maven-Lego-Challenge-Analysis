@@ -24,15 +24,18 @@
 
 #
 
-## Challenge Objective:
+## Challenge Objective: 
+[🔁Home](#table-of-content)
 The Objective of this Maven LEGO Challenge, we'll need to stack our imagination and analytical prowess to piece together an interactive dashboard or visual that lets users(Client) explore the insight from history and evolution of LEGO sets from the past 5 decades.
 
 ## About The Data Set:
+[🔁Home](#table-of-content)
 For this project I have provided a CSV file type dataset. This dataset comprises a single table containing 18,459 records and 14 fields.
 
 Specifically, the dataset focuses on LEGO sets released from 1970 to 2022, encompassing various details such as each set's theme, number of pieces, recommended age, retail price, and an image associated with each set.
 
 ### Data Dictionary & Secrets:
+[🔁Home](#table-of-content)
 Before proceeding further with the project, here is a brief overview of the data and its fields:
 
  *  set_id : The official LEGO item number, ensuring 100% uniqueness.
@@ -64,6 +67,7 @@ Before proceeding further with the project, here is a brief overview of the data
  * imageURL: The full-size image of the set.
 
 ### Dashboard Overview:
+[🔁Home](#table-of-content)
 I have developed a Power BI dashboard consisting of two pages to meet the objectives of the challenge. The first page is divided into six sections, each providing detailed insights and analysis as follows:
 
 * #### Quick Insight Section: 
@@ -87,14 +91,17 @@ Insights and analysis based on theme groups are presented in this section, provi
 The second page is designed to be user-friendly, featuring standard and new KPIs along with slicers. Users can easily select a specific LEGO set and gain insights about it in an easy-to-understand manner, facilitating interactive exploration of the data.
 
 ### Tools Used:
+[🔁Home](#table-of-content)
 In line with the objectives and project requirements, I have utilized Power BI, a powerful business intelligence tool, for dashboard creation. Additionally, I have employed Excel to some extent to ensure that the data is formatted clearly and in a usable manner.
 
 ### Important tips for using bookmarks:
+[🔁Home](#table-of-content)
 Sometimes, after clicking on a bookmark, the filters may not apply as expected. In such cases, try clicking on another bookmark within the same group and then return to the desired bookmark. This action often resolves any issues with the bookmark filters not applying correctly.
 
 #
 
 ## Detailed Explanation:
+[🔁Home](#table-of-content)
 At the top of my dashboard, I have incorporated 7 key performance indicators (KPIs) to provide a quick overview and basic understanding of the dataset and dashboard. These KPIs are as follows:
 
 ![1](https://github.com/user-saddam123/Maven-Lego-Challenge-Analysis/assets/123800896/a98d9285-11bd-44c5-bf8b-2866e91eef43)
@@ -146,6 +153,7 @@ In the Quick Insights section, you can easily view top 5 quick insights presente
 #
 
 ## Trend Overview
+[🔁Home](#table-of-content)
 The Trend Overview section provides a high-level view of the evolution of LEGO sets over year. It includes two bookmark buttons that allow users to switch between two different visuals.
 
 ### 1.Lego Sets Released by Year
@@ -175,6 +183,7 @@ Similarly, the data spans from 1970 to 2022, but the price related data is only 
 #
 
 ## Category Based Insights
+[🔁Home](#table-of-content)
 The Category Based Insights section provides a detailed view of the distribution of LEGO sets, pieces, minifigure, and avg price across different categories. It includes four bookmark buttons that allow users to switch between four different visuals.
 
 ### 1.Total Set Released by Category
@@ -204,6 +213,7 @@ The data shows that the Collection category has the highest average price, at $4
 #
 
 ## Themes Based Insights
+[🔁Home](#table-of-content)
 The Theme Based Insights section provides a detailed view of the distribution of LEGO sets, pieces, minifigure, and avg price across different Theme. It includes four bookmark buttons that allow users to switch between four different visuals.
 
 ### 1.Top 10 Theme by total Lego Sets
@@ -233,6 +243,7 @@ The data shows that the Serious Play theme has the highest average price, at $51
 #
 
 ## Sub Theme Based Insights
+[🔁Home](#table-of-content)
 The Sub Theme Based Insights section provides a detailed tabular view of the distribution of LEGO sets, pieces, minifigure, and avg price across different Sub Theme. It includes four bookmark buttons that allow users to switch between four different visuals.
 
 ### 1.Lego Set by Sub Theme
@@ -262,6 +273,7 @@ This tabular visual shows the number of LEGO AVG Price in each subtheme. The dat
 #
 
 ## ThemeGroup Based Insights
+[🔁Home](#table-of-content)
 The ThemeGroup Based Insights section provides a detailed view of the distribution of LEGO sets, pieces, minifigure, and avg price across different ThemeGroup. It includes four bookmark buttons that allow users to switch between four different visuals.
 
 ### 1.Lego Sets by ThemeGroup
@@ -291,6 +303,7 @@ This Visual shows that the Educational ThemeGroup has the highest average price,
 #
 
 ## SECOND PAGE
+[🔁Home](#table-of-content)
 
 ### Page 2: Deep Dive into LEGO Sets
 The second page is designed to be user-friendly, featuring standard and new KPIs along with slicers. Users can easily select a specific LEGO set and gain insights about it in an easy-to-understand manner, facilitating interactive exploration of the data.
@@ -335,6 +348,7 @@ or,
 #
 
 ## Learning through this project:
+[🔁Home](#table-of-content)
 This project has been truly rewarding, allowing me to showcase my work and further my journey as an aspiring data analyst. It not only adds value to my portfolio but also demonstrates my capabilities in handling complex datasets.
 
 This marks my first project where I have implemented 18 bookmarks and utilized new KPIs. The extensive detailing involved in this project took more than 14 days to complete.
@@ -354,3 +368,4 @@ Saddam Ansari @Aspiring Data Analyst LinkedIn Link
 Location: India
 
 ### THE END
+[🔁Home](#table-of-content)
