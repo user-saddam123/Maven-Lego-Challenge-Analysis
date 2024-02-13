@@ -6,6 +6,14 @@
 ### Live Dashboard at Maven Analytics ShowPage [Link](https://mavenanalytics.io/project/12351)
 
 #
+## Table of Content:
+1.[Objective](#challenge-objective)
+2.[About The Data Set](#about-the-data-set)
+3.[Dashboard Overview](#dashboard-overview)
+4.[Tools Used](#tools-used)
+5.[Tips for using Bookmarks](#important-tips-for-using-bookmarks)
+
+
 
 ## Challenge Objective:
 The Objective of this Maven LEGO Challenge, we'll need to stack our imagination and analytical prowess to piece together an interactive dashboard or visual that lets users(Client) explore the insight from history and evolution of LEGO sets from the past 5 decades.
