@@ -1,4 +1,4 @@
-![tbi3](https://github.com/user-saddam123/Maven-Lego-Challenge-Analysis/assets/123800896/121922a0-5d98-4665-bb79-19111a940b7a)# Maven-Lego-Challenge-Analysis
+# Maven-Lego-Challenge-Analysis
 
 ## Created & Analyzed by Saddam Ansari @Aspirirng Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
