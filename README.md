@@ -101,6 +101,7 @@ In line with the objectives and project requirements, I have utilized Power BI, 
 
 ### Important tips for using bookmarks:
 [🔁Home](#table-of-content)
+
 Sometimes, after clicking on a bookmark, the filters may not apply as expected. In such cases, try clicking on another bookmark within the same group and then return to the desired bookmark. This action often resolves any issues with the bookmark filters not applying correctly.
 
 #
