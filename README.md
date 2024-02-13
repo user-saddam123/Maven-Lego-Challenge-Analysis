@@ -7,11 +7,11 @@
 
 #
 ## Table of Content:
-1.[Objective](#challenge-objective)
-2.[About The Data Set](#about-the-data-set)
-3.[Dashboard Overview](#dashboard-overview)
-4.[Tools Used](#tools-used)
-5.[Tips for using Bookmarks](#important-tips-for-using-bookmarks)
+ 1. [Objective](#challenge-objective)
+ 2. [About The Data Set](#about-the-data-set)
+ 3. [Dashboard Overview](#dashboard-overview)
+ 4. [Tools Used](#tools-used)
+ 5. [Tips for using Bookmarks](#important-tips-for-using-bookmarks)
 
 
 
